@@ -3,4 +3,4 @@ i dont know how to make it work
 if there are something happened, we are prepared.
 new day comes, we have new task to do.
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes of files.
